@@ -1,7 +1,7 @@
 <h1>Automate LinkedIn Endorsements!</h1>
   <h3>Save your click-finger!</h3>
 <p>
-A way to automate the sharing skills on linkedin: we might improve on this so maybe updates
+A way to automate endorsing others on linkedin: we might improve on this so maybe updates
 for now it automatically endorses the skills:
 First shout-out to our devs team @Christopher Carney @David Bernstein (https://github.com/dangitbobbeh) @Timeo and me n_n (https://github.com/deadxears)!
   <ul>
