@@ -43,7 +43,7 @@ async function dropmein() {
   await bulkClick(buttons);
   await bulkClick(buttons);
   await bulkClick(buttons);
-  window.scrollTo(0, document.body.scrollHeight);
+  window.scrollTo(0, 0);
 
 }
 dropmein()
