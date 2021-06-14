@@ -14,7 +14,6 @@ async function dropmein() {
       return new Promise((resolve) => {
         setTimeout(() => {
           window.scrollTo(0, document.body.scrollHeight);
-          console.log("scroll!");
           resolve();
         }, SCROLL_TIMEOUT);
       });
@@ -24,6 +23,7 @@ async function dropmein() {
   async function singleClick(elem) {
     return new Promise((resolve) => {
       setTimeout(() => {
+        console.log("elem: ", elem)
         elem.click();
         resolve();
       }, 500);
@@ -38,12 +38,9 @@ async function dropmein() {
         console.log("click!");
     }
   }
-  await singleScroll();
-  await singleClick(showMoreDiv[0]);
   await bulkClick(buttons);
   await bulkClick(buttons);
   await bulkClick(buttons);
-  window.scrollTo(0, 0);
 
 }
 dropmein()
