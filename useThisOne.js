@@ -1,5 +1,5 @@
 // automates Linkedin skill promoting process
-//copy and paste all below into Chrome Dev tools
+//copy and paste all below into Chrome console
 async function dropmein() {
   const SCROLL_TIMEOUT = 600;
   const showMoreDiv = document.getElementsByClassName(
