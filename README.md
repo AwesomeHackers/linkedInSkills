@@ -6,7 +6,7 @@ for now it automatically endorses the skills:
 First shout-out to our devs team:
 Christopher Carney,
 David Bernstein ([@dangitbobbeh](https://github.com/dangitbobbeh)),
-Timeo,
+Timeo ([@timeowilliams](https://github.com/timeowilliams)),
 and me ([@WeilanCui](https://github.com/WeilanCui)),
   <ul>
 <li>Step 1: Go to LinkedIn, navigate to a colleague’s page</li>
